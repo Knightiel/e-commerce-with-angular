@@ -1,4 +1,4 @@
-# Aula1
+# E-Commerce with Angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.4.
 
